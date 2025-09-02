@@ -7,5 +7,7 @@
 			"path": "../git demo"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
 }
